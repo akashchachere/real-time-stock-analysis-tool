@@ -21,4 +21,6 @@ git clone https://github.com/akashchachere/real-time-stock-analysis-tool.git
 cd real-time-stock-analysis-tool
 
 # Output
-![Image](https://github.com/user-attachments/assets/b5ad68cb-148c-46f5-9528-ccd0c1942572)
+![Image](https://github.com/user-attachments/assets/198cf09f-6ab1-4fad-af69-8b167c555b35)
+![Image](https://github.com/user-attachments/assets/397e9551-20db-4588-a6f0-7bf318a00886)
+![Image](https://github.com/user-attachments/assets/350027b5-fe03-47dd-b45c-97f73dbc3df7)
